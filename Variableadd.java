@@ -1,4 +1,4 @@
-public class Variadd{
+public class Variableadd{
     public static void main(String args[]){
     float a=10.11f;
     float b=12.12f;
